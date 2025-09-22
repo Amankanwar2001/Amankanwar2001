@@ -21,11 +21,3 @@
 
 ---
 
-## 📫 Connect with me
-- [LinkedIn](#https://www.linkedin.com/in/aman-kanwar-6ab213208/)  
-- [Codeforces](#https://codeforces.com/profile/baby._.shadow)  
-- [LeetCode](#https://leetcode.com/u/babyshadow/)  
-- [Email](amankanwar09042001@gmail.com)  
-
----
-
